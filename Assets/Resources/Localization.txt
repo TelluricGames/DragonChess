@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+  <!-- Main menu -->
+  <TextKey name="StartGameButtonText">
+    <EN>Start game</EN>
+    <RU>Начать игру</RU>
+  </TextKey>
+
+  <TextKey name="ResumeGameButtonText">
+    <EN>Resume game</EN>
+    <RU>Продолжить игру</RU>
+  </TextKey>
+
+  <TextKey name="SettingsButtonText">
+    <EN>Settings</EN>
+    <RU>Настройки</RU>
+  </TextKey>
+
+  <TextKey name="ExitButtonText">
+    <EN>Exit</EN>
+    <RU>Выйти из игры</RU>
+  </TextKey>
+
+  <!-- Player choice -->
+  <TextKey name="ChoosePlayersText">
+    <EN>Choose players</EN>
+    <RU>Выберите игроков</RU>
+  </TextKey>
+
+  <TextKey name="WhitePlayerText">
+    <EN>White</EN>
+    <RU>Белые</RU>
+  </TextKey>
+
+  <TextKey name="BlackPlayerText">
+    <EN>Black</EN>
+    <RU>Черные</RU>
+  </TextKey>
+
+  <TextKey name="HumanText">
+    <EN>Human</EN>
+    <RU>Человек</RU>
+  </TextKey>
+
+  <TextKey name="AIText">
+    <EN>AI</EN>
+    <RU>ИИ</RU>
+  </TextKey>
+
+  <TextKey name="CancelButtonText">
+    <EN>Cancel</EN>
+    <RU>Отмена</RU>
+  </TextKey>
+
+  <!-- Settings -->
+
+  <TextKey name="SaveAngleAndPositionText">
+    <EN>Save camera angle and position when moving between boards</EN>
+    <RU>Сохранять угол поворота и позицию камеры при перемещении между досками</RU>
+  </TextKey>
+
+  <TextKey name="RotateCameraOnPlayerChangeText">
+    <EN>Rotate camera on player change</EN>
+    <RU>Поворачивать камеру при смене игрока</RU>
+  </TextKey>
+
+  <TextKey name="VolumeText">
+    <EN>Volume</EN>
+    <RU>Громкость</RU>
+  </TextKey>
+
+  <TextKey name="MainMenuButtonText">
+    <EN>To main menu</EN>
+    <RU>В главное меню</RU>
+  </TextKey>
+
+  <!-- In-game -->
+
+  <TextKey name="GoToMenuButtonText">
+    <EN>Go to menu</EN>
+    <RU>Меню</RU>
+  </TextKey>
+
+  <TextKey name="LogButtonText">
+    <EN>Log</EN>
+    <RU>Лог игры</RU>
+  </TextKey>
+
+  <TextKey name="CapturedPiecesButtonText">
+    <EN>Captured pieces</EN>
+    <RU>Съеденные фигуры</RU>
+  </TextKey>
+
+  <TextKey name="BoardUpButtonText">
+    <EN>Board up</EN>
+    <RU>Перейти выше</RU>
+  </TextKey>
+
+  <TextKey name="BoardDownButtonText">
+    <EN>Board down</EN>
+    <RU>Перейти ниже</RU>
+  </TextKey>
+
+  <TextKey name="WhiteTurnText">
+    <EN>White's turn</EN>
+    <RU>Ход белых</RU>
+  </TextKey>
+
+  <TextKey name="BlackTurnText">
+    <EN>Black's turn</EN>
+    <RU>Ход черных</RU>
+  </TextKey>
+
+  <TextKey name="CheckText">
+    <EN>Check!</EN>
+    <RU>Шах!</RU>
+  </TextKey>
+
+  <TextKey name="CheckmateText">
+    <EN>Checkmate!</EN>
+    <RU>Шах и мат!</RU>
+  </TextKey>
+</Localization>
