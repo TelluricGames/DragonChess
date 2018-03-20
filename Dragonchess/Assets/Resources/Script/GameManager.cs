@@ -156,7 +156,7 @@ public class GameManager : MonoBehaviour {
 
 	IEnumerator DoTurnRoutine (PlayerMove move) {
 		Logger.PrepareMove (move.start, move.end, _boards);
-
+		
 		if (ActivePlayer.PlayerType == PlayerType.AI) {
 			_camera.GoToBoard ((int)move.end.z);
 
